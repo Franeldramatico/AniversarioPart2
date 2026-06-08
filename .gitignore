@@ -1,0 +1,7 @@
+.next/
+node_modules/
+.next
+node_modules
+__next.*.txt
+_not-found/*.txt
+*.txt
